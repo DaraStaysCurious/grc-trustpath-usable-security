@@ -47,7 +47,7 @@ Same system scope as the SOC 2 assessment: TrustPath's production application, e
 
 | Subcategory | Current State | Gap |
 |---|---|---|
-| RS.MA - Incident Management | No documented incident response plan | High-priority gap — same finding as SOC 2 Availability section |
+| RS.MA - Incident Management | No documented incident response plan | High-priority gap - same finding as SOC 2 Availability section |
 | RS.CO - Incident Communication | No defined customer notification process for a security incident | Would directly affect customers relying on TrustPath for their own vendor risk reporting |
 
 ### RECOVER (RC)
